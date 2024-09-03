@@ -1,0 +1,54 @@
+Sample API Casestudie for practice:
+
+https://openweathermap.org/api
+
+
+https://dummy.restapiexample.com/
+
+
+https://blazeddemo.com
+
+
+
+Body data template : for post/delete/put :
+\"eve.holt@reqres.in\"
+
+{\"fildName\":\"value1\"}  // single field
+
+{"\email\":\"gayatrimis1@gmail.com\" ,
+"\password\":\"school100\",
+"\confirmedpasscode\":\"school100\"
+}
+
+"{"\email\":\"gayatrimis1@gmail.com\" ,
+"\password\":\"school100\",
+"\confirmedpasscode\":\"school100\"
+}
+"
+
+
+ APITesting_Contents_SoapUI_Jan-2024_Gayatri 
+
+https://github.com/c11472/-APITesting_Contents_RestAssured_Jan-2024_Gayatri-.git
+
+
+1. Restassured Archicture 
+2. Configuring RestAssured in Eclips + Maven
+3. First Script to execute Gate method [API]
+4. Capturing the response content
+5. Validating the response document
+6. POST method , accept the body details through code
+7. PUT to update the details - script
+8. DELETE method - script
+9. Assert in RestAssured 
+
+
+
+
+
+
+
+
+
+
+
